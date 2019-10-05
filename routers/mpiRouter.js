@@ -1,6 +1,6 @@
 const express = require('express');
 
-const router = express.router();
+const router = express.Router();
 
 const example = ['bacurau', 'joker', 'a silent voice'];
 
