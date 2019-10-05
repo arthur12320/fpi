@@ -26,7 +26,7 @@ movies will be represented as follows:
 {
   "name":"name of the movie",
   "year":"year movie was released",
-  "decription":"small description off the movie",
+  "description":"small description off the movie",
   "director":"the director of the movie",
   "torrent":"a working magnet link for the movie"
 }
