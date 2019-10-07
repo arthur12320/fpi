@@ -20,6 +20,13 @@ const movies = [
     director: 'Terry Jones',
     torrent: 'magnet:?xt=urn:btih:a1c3f4ef08919be78211aa354b3ffb9f69be5921&dn=Monty+Python%5C%27s+Life+of+Brian+%281979%29.DVDRip.XviD.Ekolb&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969',
   },
+  {
+    name: "Avatar",
+    year: '2009',
+    description: '  A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. ',
+    director: 'James Cameron',
+    torrent: 'magnet:?xt=urn:btih:1fa82d9959257afc7d849d7b014bdd2f76bd2c05&dn=Avatar+-+Extended+Collectors+Edition+%282009%29+720p+BrRip+x264+-+YI&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969',
+  },
 ];
 
 
