@@ -5,7 +5,11 @@ const apiRouter = require('./routers/mpiRouter');
 
 const app = express();
 
+// middlewares
+app.use(express.json());
 
+
+// routes
 app.use('/MPI/1.0/', apiRouter);
 
 
