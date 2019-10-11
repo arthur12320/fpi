@@ -27,6 +27,13 @@ const movies = [
     director: 'James Cameron',
     torrent: 'magnet:?xt=urn:btih:1fa82d9959257afc7d849d7b014bdd2f76bd2c05&dn=Avatar+-+Extended+Collectors+Edition+%282009%29+720p+BrRip+x264+-+YI&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969',
   },
+  {
+    name: "Gran Torino",
+    year: '2008',
+    description: ' Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
+    director: 'Clint Eastwood',
+    torrent: 'magnet:?xt=urn:btih:5b9761450a89f98ff10d4424c2914b5cebf7655f&dn=Gran+Torino+%282008%29+1080p+BrRip+x264+-+1.55GB+-+YIFY&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969',
+  },
 ];
 
 
