@@ -34,6 +34,13 @@ const movies = [
     director: 'Clint Eastwood',
     torrent: 'magnet:?xt=urn:btih:5b9761450a89f98ff10d4424c2914b5cebf7655f&dn=Gran+Torino+%282008%29+1080p+BrRip+x264+-+1.55GB+-+YIFY&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969',
   },
+  {
+    name: "Ava",
+    year: '2020',
+    description: 'Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.',
+    director: 'Clint Eastwood',
+    torrent: 'https://www.baixarfilmetorrent.net/ava-2020-torrent-dublado-e-legendado/',
+  },
 ];
 
 
