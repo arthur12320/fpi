@@ -38,7 +38,7 @@ const movies = [
     name: "Ava",
     year: '2020',
     description: 'Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.',
-    director: 'Clint Eastwood',
+    director: 'Tate Taylor',
     torrent: 'https://www.baixarfilmetorrent.net/ava-2020-torrent-dublado-e-legendado/',
   },
 ];
