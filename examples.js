@@ -48,6 +48,13 @@ const movies = [
     director: 'Tate Taylor',
     torrent: 'https://www.baixarfilmetorrent.net/ava-2020-torrent-dublado-e-legendado/',
   },
+  {
+    name: "Mulan",
+    year: '2020',
+    description: 'A young Chinese maiden disguises herself as a male warrior in order to save her father.',
+    director: 'Niki Caro',
+    torrent: 'https://www.baixarfilmetorrent.net/mulan-2020-torrent-dublado-e-legendado/',
+  },
 ];
 
 
