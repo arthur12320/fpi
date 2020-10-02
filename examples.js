@@ -20,6 +20,13 @@ const movies = [
     director: 'Terry Jones',
     torrent: 'magnet:?xt=urn:btih:a1c3f4ef08919be78211aa354b3ffb9f69be5921&dn=Monty+Python%5C%27s+Life+of+Brian+%281979%29.DVDRip.XviD.Ekolb&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969',
   },
+  {
+    name: "1917",
+    year: '2019',
+    description: ' As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap. ',
+    director: 'Sam Mendes',
+    torrent: 'https://www.baixarfilmetorrent.net/1917-2019-torrent-dublado-e-legendado/',
+  },
 ];
 
 
