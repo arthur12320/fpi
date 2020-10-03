@@ -7,6 +7,13 @@ const movies = [
     torrent: 'magnet:?xt=urn:btih:5E915039C619366E490D08DB3FFED21F3A3AE84A&amp;dn=The+Godfather+1972+1080P&amp;tr=udp://open.demonii.com:1337/announce&amp;tr=udp://tracker.openbittorrent.com:80&amp;tr=udp://tracker.coppersurfer.tk:6969&amp;tr=udp://glotorrents.pw:6969/announce&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://torrent.gresille.org:80/announce&amp;tr=udp://p4p.arenabg.com:1337&amp;tr=udp://tracker.leechers-paradise.org:6969',
   },
   {
+    name: "1917",
+    year: '2019',
+    description: ' As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap. ',
+    director: 'Sam Mendes',
+    torrent: 'https://www.baixarfilmetorrent.net/1917-2019-torrent-dublado-e-legendado/',
+  },
+  {
     name: 'Toy story',
     year: '1995',
     description: '  A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boys room.  ',
