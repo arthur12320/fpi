@@ -62,6 +62,13 @@ const movies = [
     director: 'Niki Caro',
     torrent: 'https://www.baixarfilmetorrent.net/mulan-2020-torrent-dublado-e-legendado/',
   },
+  {
+    name: "Black Widow",
+    year: '2021',
+    description: 'Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.',
+    director: 'Cate Shortland',
+    torrent: 'https://www.baixafilme.net/viuva-negra-2021-torrent-dublado-e-legendado/',
+  },
 ];
 
 
