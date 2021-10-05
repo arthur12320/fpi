@@ -41,6 +41,13 @@ const movies = [
     director: 'Tate Taylor',
     torrent: 'https://www.baixarfilmetorrent.net/ava-2020-torrent-dublado-e-legendado/',
   },
+  {
+    name: "G.I. Joe Origens Snake Eyes",
+    year: '2021',
+    description: 'An ancient Japanese clan called the Arashikage welcomes tenacious loner Snake Eyes after he saves the life of their heir apparent. Upon arrival in Japan, the Arashikage teach him the ways of the ninja warrior while also providing him something hes been longing for: a home.',
+    director: 'Robert Schwentke',
+    torrent: 'https://www.baixafilme.net/g-i-joe-origens-snake-eyes-2021-torrent-dublado-e-legendado/',
+  },
 ];
 
 
