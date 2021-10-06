@@ -70,6 +70,13 @@ const movies = [
     torrent: 'https://www.baixafilme.net/viuva-negra-2021-torrent-dublado-e-legendado/',
   },
   {
+    name: "Once Upon a Time... In Hollywood",
+    year: '2019',
+    description: 'A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywoods Golden Age in 1969 Los Angeles.',
+    director: 'Quentin Tarantino',
+    torrent: 'https://www.baixafilme.net/era-uma-vez-em-hollywood-2019-torrent-dublado-e-legendado/',
+  },
+  {
     name: "G.I. Joe Origens Snake Eyes",
     year: '2021',
     description: 'An ancient Japanese clan called the Arashikage welcomes tenacious loner Snake Eyes after he saves the life of their heir apparent. Upon arrival in Japan, the Arashikage teach him the ways of the ninja warrior while also providing him something hes been longing for: a home.',
